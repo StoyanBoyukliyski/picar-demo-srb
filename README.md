@@ -20,6 +20,11 @@ https://drive.google.com/file/d/1EPBqR5zZ24e2lzKgk8_uIlzh_wIRuezV/view
 
 The project has been implemented as per instructions and the reslts can be seen in the video in this github repo:
 
-...
+./picar-demo-srb/Picar-functioning/pycar-moving-around.MOV
+
+This repo is developed as a submission to the Coursera IoT Devices Course from the University of Illinois at Urbana-Champaign.
+
+I strongly recommend trying the course and subsequently the specialization at:
 
 
+https://www.coursera.org/learn/iot-devices-il
